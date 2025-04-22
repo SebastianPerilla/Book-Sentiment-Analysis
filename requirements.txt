@@ -4,8 +4,3 @@ pandas
 nltk
 scikit-learn
 textblob
-spacy
-torch
-transformers
-huggingface_hub
-pdfplumber
